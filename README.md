@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrat</h1>
-<h3 align="center">A passionate data engineer</h3>
+<h3 align="center">A Passionate Data Engineer</h3>
 
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F3259703%2F77e5eccd0f24d25512a6ea5dfbf1dd8d%2F1673988774958.gif?generation=1674364661056431&alt=media" />
+<img src="https://cdn.dribbble.com/users/855595/screenshots/3499433/media/139dde10d1edbdbbd759deb1dd44fe58.gif" />
 </div>
 
 - 🔭 I’m currently working on **Pyspark**
