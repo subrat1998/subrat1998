@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-
 - 🔭 I’m currently working on **Pyspark**
 
 - 🌱 I’m currently learning **Kafka**
