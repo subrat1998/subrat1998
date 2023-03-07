@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Engineer</h3>
 
 <div style="text-align: center;">
-<img src="https://cdn.dribbble.com/users/107759/screenshots/4330227/dribbble-loop-60.gif" width="600" height="600" />
+<img src="https://cdn.dribbble.com/users/107759/screenshots/4330227/dribbble-loop-60.gif" width="900" height="600" />
 </div>
 
 
