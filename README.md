@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Subrat</h1>
-<h3 align="center">A passionate data engineer</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 
 - 🔭 I’m currently working on **Pyspark**
 
