@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F3259703%2F77e5eccd0f24d25512a6ea5dfbf1dd8d%2F1673988774958.gif?generation=1674364661056431&alt=media" />
 </div>
 
 - 🔭 I’m currently working on **Pyspark**
