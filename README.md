@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrat</h1>
 <h3 align="center">A Passionate Data Engineer</h3>
 
-<img align="middle" src="https://cdn.dribbble.com/users/855595/screenshots/3499433/newton02_dribbble.gif" width="600" height="400"/>
+<img align="center" src="https://cdn.dribbble.com/users/855595/screenshots/3499433/newton02_dribbble.gif" width="600" height="400"/>
 </div>
 
 - 🔭 I’m currently working on **Pyspark**
